@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI - Image Forensics",
+  "description": "A professional AI-generated image detection tool using advanced Gemini Vision analysis to identify synthetic imagery artifacts, patterns, and inconsistencies.",
+  "requestFramePermissions": []
+}
